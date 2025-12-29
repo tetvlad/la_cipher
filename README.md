@@ -23,6 +23,8 @@ CaesarAlphabet.java     ← Русский алфавит
 
 ###### 2 Model (Domain) - модель данных
 
+ProcessingResult.java
+
 ###### 3) Service - работа с файлами
 
 FileService.java        ← Чтение/запись файлов UTF-8  
