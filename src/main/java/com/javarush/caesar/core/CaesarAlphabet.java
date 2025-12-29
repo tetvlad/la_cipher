@@ -35,7 +35,6 @@ public class CaesarAlphabet {
                 Character.isWhitespace(c) ||
                 ",.?!-:;()".indexOf(c) >= 0;
     }
-
     private CaesarAlphabet() {
     }
 }
